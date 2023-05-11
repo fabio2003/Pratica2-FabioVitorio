@@ -1,6 +1,6 @@
 /* Nome do Aluno: Fábio Augusto V.
 * RA: 323135349
-* Nome do Programa: Imprime números em ordem crescente
+* Nome do Programa: Informa se número é ímpar ou par
 * Data: 11/04/2023
 */
 
